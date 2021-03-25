@@ -516,7 +516,7 @@
     <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RB9se4hH1ptcUlCisSTmWU7">
         <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R7rKapdyJOv02gj0H5iUOgW"/>
         <rdfs:range rdf:resource="http://webprotege.stanford.edu/RDmJJvffi2hjIrkzcPiFGt7"/>
-        <rdfs:label xml:lang="en">adversitisingToolHasCatalogueInformation</rdfs:label>
+        <rdfs:label xml:lang="en">advertisingToolHasCatalogueInformation</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -1665,7 +1665,7 @@ Application: Media such as audio, text, images and videos on demand.</dc:descrip
         <dc:description xml:lang="en">Tools that offer retailers and suppliers a way to advertise their products.</dc:description>
         <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">id_adv_tool</dc:identifier>
         <rdfs:isDefinedBy xml:lang="en">Tools that offer retailers and suppliers a way to advertise their products.</rdfs:isDefinedBy>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tool_AdversitisingTool</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tool_AdvertisingTool</rdfs:label>
     </owl:Class>
     
 
