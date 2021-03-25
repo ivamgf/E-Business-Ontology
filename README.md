@@ -26,6 +26,8 @@ The ontology was developed using the Protégé platform, in its web version. The
 
 E-Business Ontology Version 1.0.1
 
+![Protégé](E-Business-Ontology/imagesOnto/protégé.jpeg)
+
 Powered By Protégé.
 
 Sources:
